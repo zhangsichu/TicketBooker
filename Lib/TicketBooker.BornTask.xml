@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BormTaskSetting>
+  <Doctors>
+    <Doctor Code="v_NDI0MTM3NzU=MTQ2" Name="徐剑秋" />
+    <Doctor Code="v_NDI0MTM3NzU=OTk=" Name="董晋" />
+    <Doctor Code="v_NDI0MTM3NzU=MTQ5" Name="雷菊玲" />
+    <Doctor Code="v_NDI0MTM3NzU=MTk5" Name="张明" />
+    <Doctor Code="v_NDI0MTM3NzU=MjA1" Name="张春利" />
+    <Doctor Code="v_NDI0MTM3NzU=NjM=" Name="赵三纯" />
+    <Doctor Code="v_NDI0MTM3NzU=Njc=" Name="周欣" />
+    <Doctor Code="v_NDI0MTM3NzU=MTQz" Name="韩云" />
+    <Doctor Code="v_NDI0MTM3NzU=MTAx" Name="刘梅" />
+    <Doctor Code="v_NDI0MTM3NzU=MTMx" Name="贺译平" />
+    <Doctor Code="v_NDI0MTM3NzU=MjA3" Name="俞春芝" />
+    <Doctor Code="v_NDI0MTM3NzU=MjEx" Name="米阳" />
+    <Doctor Code="v_NDI0MTM3NzU=MTQ1" Name="曹引丽" />
+    <Doctor Code="v_NDI0MTM3NzU=MjE3" Name="邱洪涛" />
+    <Doctor Code="v_NDI0MTM3NzU=MTQ3" Name="葛琪琳" />
+    <Doctor Code="v_NDI0MTM3NzU=MjEw" Name="刘海虹" />
+    <Doctor Code="v_NDI0MTM3NzU=NzA=" Name="张恩娣" />
+    <Doctor Code="v_NDI0MTM3NzU=MTE3" Name="蔺小贤" />
+    <Doctor Code="v_NDI0MTM3NzU=MTc3" Name="刘朝阳" />
+    <Doctor Code="v_NDI0MTM3NzU=MjA5" Name="范晓斌" />
+    <Doctor Code="v_NDI0MTM3NzU=OTg=" Name="刘晨" />
+    <Doctor Code="v_NDI0MTM3NzU=MTgy" Name="谭宏伟" />
+    <Doctor Code="v_NDI0MTM3NzU=MTQw" Name="胡春艳" />
+    <Doctor Code="v_NDI0MTM3NzU=MTIx" Name="何菊仙" />
+    <Doctor Code="v_NDI0MTM3NzU=MTc4" Name="余亚莉" />
+    <Doctor Code="v_NDI0MTM3NzU=MTUx" Name="单莉" />
+    <Doctor Code="v_NDI0MTM3NzU=MTk4" Name="白昌民" />
+    <Doctor Code="v_NDI0MTM3NzU=MTAy" Name="魏家芳" />
+    <Doctor Code="v_NDI0MTM3NzU=MTQy" Name="张红卫" />
+    <Doctor Code="v_NDI0MTM3NzU=MTA0" Name="王玉琴" />
+    <Doctor Code="v_NDI0MTM3NzU=OTc=" Name="梁惠芳" />
+    <Doctor Code="v_NDI0MTM3NzU=MjA2" Name="张文杰" />
+    <Doctor Code="v_NDI0MTM3NzU=MTUz" Name="刘凤英" />
+    <Doctor Code="v_NDI0MTM3NzU=MjEy" Name="高雪婷" />
+    <Doctor Code="v_NDI0MTM3NzU=MTU4" Name="李芳" />
+    <Doctor Code="v_NDI0MTM3NzU=MTU5" Name="桑改莉" />
+    <Doctor Code="v_NDI0MTM3NzU=MTYz" Name="师娟子" />
+    <Doctor Code="v_NDI0MTM3NzU=MTY0" Name="龚世珣" />
+    <Doctor Code="v_NDI0MTM3NzU=MTY2" Name="周寒鹰" />
+    <Doctor Code="v_NDI0MTM3NzU=MTk2" Name="柏海燕" />
+    <Doctor Code="v_NDI0MTM3NzU=MTY3" Name="张洲" />
+    <Doctor Code="v_NDI0MTM3NzU=MTYx" Name="王俊鹏" />
+    <Doctor Code="v_NDI0MTM3NzU=MTYy" Name="李普查" />
+  </Doctors>
+  <RegisterDateTime>
+    <RegisterDateType Name="上午" Code="MQ==">
+      <DateTimeItem Name="8:00-9:00" Code="8:00-9:00" />
+      <DateTimeItem Name="9:00-10:00" Code="9:00-10:00" />
+      <DateTimeItem Name="10:00-11:00" Code="10:00-11:00" />
+      <DateTimeItem Name="11:00-12:00" Code="11:00-12:00" />
+    </RegisterDateType>
+    <RegisterDateType Name="下午" Code="Mw==">
+      <DateTimeItem Name="14:00-15:00" Code="14:00-15:00" />
+      <DateTimeItem Name="15:00-16:00" Code="15:00-16:00" />
+      <DateTimeItem Name="16:00-17:00" Code="16:00-17:00" />
+    </RegisterDateType>
+  </RegisterDateTime>
+</BormTaskSetting>

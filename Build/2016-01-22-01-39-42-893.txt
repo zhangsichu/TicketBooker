@@ -1,0 +1,1 @@
+Could not load file or assembly 'file:///C:\Project\TicketBookerA\Build\TicketBooker.BornTask.dll' or one of its dependencies. Operation is not supported. (Exception from HRESULT: 0x80131515)
