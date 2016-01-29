@@ -1,7 +1,13 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicketBooker", "TicketBooker\TicketBooker.csproj", "{2FF93A3B-0DCF-4C17-B9E2-C27E76570E42}"
+	ProjectSection(ProjectDependencies) = postProject
+		{B4339258-02A9-49E8-A6B1-CFD0827C601E} = {B4339258-02A9-49E8-A6B1-CFD0827C601E}
+		{94918672-1B38-408F-9143-C0003DAE14A1} = {94918672-1B38-408F-9143-C0003DAE14A1}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicketBooker.Core", "TicketBooker.Core\TicketBooker.Core.csproj", "{16DB53D1-DF0E-4772-98EA-7E4FFBEA79C8}"
 EndProject
