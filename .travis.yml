@@ -1,6 +1,4 @@
 language: csharp
-solution: TicketBooker.sln
-
 script:
   - xbuild /p:Configuration=Debug TicketBooker.sln
 before_install:
