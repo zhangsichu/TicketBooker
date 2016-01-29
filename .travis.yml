@@ -1,0 +1,9 @@
+language: csharp
+solution: TicketBooker.sln
+
+install:
+  - sudo apt-get install nunit-console
+  - nuget restore TicketBooker.sln
+
+script:
+  - xbuild TicketBooker.sln
