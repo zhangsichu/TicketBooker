@@ -13,8 +13,6 @@ namespace TicketBooker.BornTask
         public static string SettingFileName = "TicketBooker.BornTask.xml";
         public static string PersonFileName = "Person.txt";
 
-        llll
-
         public static BormTaskSetting LoadBormTaskSetting()
         {
             //1. load the xml file.
